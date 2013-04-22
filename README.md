@@ -1,6 +1,8 @@
 CleverElements-SOAP
 ===================
 
+[![Build Status](https://travis-ci.org/alappe/cleverelements-soap.png)](https://travis-ci.org/alappe/cleverelements-soap)
+
 While CleverElements is working on their RESTful API, I needed access to
 some of the old SOAP-based API to subscribe new addresses and fetch the
 list-names. Maybe someone needs this too…
