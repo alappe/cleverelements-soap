@@ -1,0 +1,28 @@
+{
+  "name": "cleverelements-soap",
+  "version": "0.1.0",
+  "description": "Use CleverElements SOAP API",
+  "main": "lib/cleverelements.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alappe/cleverelements-soap"
+  },
+  "keywords": [
+    "newsletter",
+    "api",
+    "soap",
+    "subscriber"
+  ],
+  "author": "Andreas Lappe",
+  "license": "BSD",
+  "dependencies": {
+    "soap-js": "~0.2.11"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "should": "~1.2.2"
+  }
+}
