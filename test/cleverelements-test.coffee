@@ -1,5 +1,5 @@
 assert = require 'should'
-CleverElements = require 'cleverelements-soap'
+CleverElements = require '../lib/cleverelements'
 
 describe 'CleverElements', ->
   cleverElements = null

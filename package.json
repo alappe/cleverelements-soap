@@ -4,7 +4,7 @@
   "description": "Use CleverElements SOAP API",
   "main": "lib/cleverelements.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "./node_modules/mocha/bin/mocha test"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "mocha": "~1.9.0",
-    "should": "~1.2.2"
+    "should": "~1.2.2",
+    "coffee-script": "~1.6.0"
   }
 }
